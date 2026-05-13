@@ -43,7 +43,7 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
+git clone (https://github.com/shovovai/iphone-design.git)
 cd iphone-doc
 Installation
 
@@ -76,4 +76,6 @@ Project Banner
 Accelerate your professional journey with the Expert Training program
 
 And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
+
+Need design? Come webhaat.site
 
